@@ -1,0 +1,18 @@
+{
+  "name": "paguru-generate-cli",
+  "version": "1.0.0",
+  "description": "Simple project generator",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "pgc-cli": "main.js"
+  },
+  "author": "Herisson Silva",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "commander": "^2.19.0"
+  }
+}
